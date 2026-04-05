@@ -1,0 +1,4 @@
+.env
+venv/
+image.png
+.git/info/exclude
